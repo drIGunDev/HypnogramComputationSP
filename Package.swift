@@ -16,7 +16,7 @@ let package = Package(
         targets: [
             .binaryTarget(
                 name: "HypnogramComputation",
-                url: "https://github.com/igor-gun/HypnogramComputationXCFramework/releases/download/1.1.0/HypnogramComputation.xcframework.zip",
+                url: "https://github.com/igor-gun/HypnogramComputationXCFramework/releases/download/1.2.0/HypnogramComputation.xcframework.zip",
                 checksum: "b9bb1cf9553930837d3edd3bacb78696edcd81f9cc31ce22f8650a0dd55d84b9"
             )
         ]
